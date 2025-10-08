@@ -1,0 +1,10 @@
+{
+    "x1y1" : [720, 360],
+    "x2y2" : [1200, 700],
+    "max_det_num" : 5,
+    "min_cali_distance" : 101,
+    "alpha" : 50,
+    "safe_mode" : "False",
+    "debug_mode" : "False",
+    "load_path" : "./load.json"
+}
